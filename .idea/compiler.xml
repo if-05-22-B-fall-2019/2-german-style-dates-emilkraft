@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="germanstyledates" />
+        <module name="2-german-style-dates-emilkraft" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="2-german-style-dates-emilkraft" target="1.8" />
       <module name="germanstyledates" target="1.8" />
     </bytecodeTargetLevel>
   </component>
